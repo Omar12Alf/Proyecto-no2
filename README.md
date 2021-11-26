@@ -1,2 +1,4 @@
 # Proyecto-no2
-//Este es un proyecto con el cual creamos una calculadora con la cual calculamos los precio y se registran en una base de datos.
+
+Calculadora online con relacion a una base de datos en la cual se registran los datos cómo precio, cantidad y producto de una pequeña tienda. Al confirmar la compra se registran los datos en la bd y en la pagina tenemos una pestaña en la cual podemos verlos de igual manera.
+
